@@ -1,6 +1,7 @@
 import streamlit as st
 
 
+
 st.set_page_config(page_title="Leyes Empíricas de los Gases Ideales", layout="centered")
 
 st.title("🌡️ Leyes Empíricas de los Gases Ideales")
