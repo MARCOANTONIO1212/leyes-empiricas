@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("istockphoto-629942998-612x612.jpg")
+st.image("quimica 2")
 
 
 st.set_page_config(page_title="Leyes Empíricas de los Gases Ideales", layout="centered")
